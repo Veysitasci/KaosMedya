@@ -138,7 +138,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(
 SET_CMDS = getenv("SET_CMDS", False)
 
 # You'll need a Pyrogram String Session for these vars. Generate String from our session generator bot @YukkiStringBot
-STRING1 = getenv("STRING_SESSION", "BAE82f0AjmSnc8qhhWnUgPsGoQrWbuk_t41_hX5CXwuqoxDA14R26WgQv8_p1H1_vkk8uAwLeQNqYtCHOquBaZlysINZJc8Ig7cs-kFwaO5vAR_roQXE4TydgqO5AOn1mhCYK-cEZpcR45wiDqgLKUFXrdgLeb7i4_IGkkRqMdRPyanJ6xZt5mgcORJQiFbjsRKzcKqts4ZI7OADVn8xEJApLzYbcu0EAIIbwgsCNdX5rgABCQxuc8CT6w38zJ38oC6Cf9w6pE8keaytlrupiVXWtIiCre5Alr4ssDxz-ypEuviBaltFJryJbtdojOV7cJMn2WxaVtc_NnjGBPvhFqL3-Q5MzAAAAAFfVjuuAA")
+STRING1 = getenv("STRING_SESSION", "BACxAt9wvsaKWzkFIZMgDJh_RhHBw4Ssok23gFxmILePtY1C2C9f_OJJdsutrf4-_vRAKwTaWhigITqQ3C8MiNIBy70uW7PLpEoJOF_s9jq24CwAL9phx_rNKR-INxpgB5fO2YspmuuAT5_uvZGopAyhyRmnqDHkjUUmQ539XNXePRsoOhnlb5vQCwn-QRl_SWm_NqUgkd1gEgfA93HjW8t7cKUUS6bIQdXuPmQY9uHWr4ybYAiR1w5REsei0dNPyeVhUUZXfQdANQvTRlMojjpLj5rNz5f6uszzvtrgVF4Zo38Smc1VugzU-ewIhWFBssoQhSYM5ZDMbY9cSiWMMCwSAAAAAV9WO64A")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
